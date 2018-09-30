@@ -1,8 +1,13 @@
-## Your Name
+## Naomi Bid
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Full stack junior developer. 
+During my time at Makers Academy I have not only learned how to code, but also how to efficiently learn and apply new skills at speed.
+I'm looking to take on a role where I can rapidly build up my skills and gain a wealth of knowledge.
 
 ## Skills
+
+Creative. keen to learn continously. I am looking to have the opportunity to rapidly develop my skills, and have a strong interest in data science.
+I have grit and determination, once I put my mind to something I commit for the long term. Long term thinker. Team player, looking out for the good of the team, good interpersonal skills/emotional awareness. Adaptable.
 
 #### This Skill
 
@@ -23,7 +28,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October - December 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +39,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Business Owner** (2010 - 2018)    
+*Business owner, self starter. I ran a photography business for 8 years, trading in three outlets year round plus at seasonal events. I have learnt a range of business skills, from day to day operations to budgeting, accounts and generating revenue.*  
+
+## Interests
+
+Reading, especially on economics and natural history.
+Painting and Photography
