@@ -24,26 +24,14 @@ In this intensive boot camp, I gained valuable knowledge and hands-on experience
 
 As well as the following technologies:
 
-Python
-Unittest
-Sinatra
-HTML
-Jasmine
-Travis
-CSS
-Rspec
-Heroku
-Ruby
-Capybara
-AWS
-Javascript
-Cypress
-Google Maps + Geolocation
-SQL
-Jest
-React
-Rails
-JQuery
+* Ruby, Rspec, Sinatra, Capybara, Rails
+* Javascript, Jasmine, JQuery, React, Cypress, Jest
+* Python, Unittest
+* PostgresQL
+* HTML, CSS
+* Heroku, AWS
+* Travis
+* Google Maps + Geolocation
 
 
 And here some projects reflecting my work
