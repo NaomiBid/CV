@@ -38,9 +38,9 @@ And here some projects reflecting my work
 
 |    Project Name    | Description |
 |------------------------------|-------------|
-|[Bank Tech Test](https://github.com/NaomiBid/bank-tech-test)                                           |  An example using OOP principles and writing clean code           |
-|[Gilded Rose](https://github.com/NaomiBid/Gilded-Rose-new-repository)                                                 | This course work exercise is an excellent example of refactoring messy legacy code into clean code that is easy to read and add to. This was achieved using OOP principles.            |
-|[FizzBuzz in Python](https://github.com/NaomiBid/fizzbuzz-in-python)                                           |  This well known program was my introduction to learn Python (and a corresponding test suite: unittest). I was able to learn the syntax, prove to myself that I can pick up a new programming language and test suite in one morning, and program this using TDD.           |
+|[Bank Tech Test](https://github.com/NaomiBid/bank-tech-test)                                           |  An example using **OOP principles** and writing clean code using **TDD**           |
+|[Gilded Rose](https://github.com/NaomiBid/Gilded-Rose-new-repository)                                                 | This course work exercise is an excellent example of **refactoring** messy legacy code into clean code that is easy to read and add to. This was achieved using OOP principles.            |
+|[FizzBuzz in Python](https://github.com/NaomiBid/fizzbuzz-in-python)                                           |  This well known program was my introduction to learning **Python** (and a corresponding test suite: unittest). I was able to learn the syntax, prove to myself that I can pick up a new programming language and test suite in one morning, and program this using **TDD**.           |
 
 
 ## Interests
