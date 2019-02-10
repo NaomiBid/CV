@@ -1,50 +1,61 @@
 ## Naomi Bid
 
-Full stack junior developer. 
-During my time at Makers Academy I have not only learned how to code, but also how to efficiently learn and apply new skills at speed.
-I'm looking to take on a role where I can rapidly build up my skills and gain a wealth of knowledge.
+Highly motivated full stack junior software developer, with many years experience as a business owner and entrepreneur. Currently looking to join a company where I can utilize and further develop my coding and tech skills in a business focused work environment. My career goal is to take on a role in a software team which allows me to contribute and help the growth of the company.
 
-## Skills
+## Skills and Experience
 
-Creative. keen to learn continously. I am looking to have the opportunity to rapidly develop my skills, and have a strong interest in data science.
-I have grit and determination, once I put my mind to something I commit for the long term. Long term thinker. Team player, looking out for the good of the team, good interpersonal skills/emotional awareness. Adaptable.
+#### Entrepreneurship:
 
-#### This Skill
+I ran a photography business for 8 years, trading in three outlets year round plus at seasonal events. I have learnt a range of business skills, from day to day operations to budgeting, accounts and generating revenue, as well as talking to customers and understanding their needs. I understand how to prioritise and focus on core business needs while growing a business. I take an approach which isn’t reckless but can minimize risk while considering growth. This means that sometimes the priority is not to run after a shiny new app or feature but to  focus on steady growth. I’ve done that in my own business growing from a single market stall to three and managing a team of staff to keep the business thriving. As I was able to keep a steady cash flow and strong growth I remained considerate of continual improvement and growth. I was able to develop creative solutions to visual merchandising, consider customer footfall when choosing new places to trade as well as seasonal fairs.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Client Facing:
 
-- Experience
-- Achievements
-- Evidence
+In my business, it was important to create an authentic brand and a product that I could be really proud of. That is  really important when connecting with new customers and after eight years of trading I am confident dealing with people from all walks of life. Working on a product I believe in that also adds value to society is a big motivating factor for me.
 
-#### Another Skill
+#### Team Work:
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I’ve managed teams, some of whom were family. When you work with your family, you have to be committed to get the best out of each of them because you can’t sack them! I have developed a communication style that allows me to be confident in expressing my own ideas while listening to others which has allowed me to build strong and motivated teams.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
+## Education and Tech Skills:
 
 #### Makers Academy (October - December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+In this intensive boot camp, I gained valuable knowledge and hands-on experience on: writing clean code, TDD,  OOP, Agile, SCRUM, XP Values.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+As well as the following technologies:
 
-## Experience
+Python
+Unittest
+Sinatra
+HTML
+Jasmine
+Travis
+CSS
+Rspec
+Heroku
+Ruby
+Capybara
+AWS
+Javascript
+Cypress
+Google Maps + Geolocation
+SQL
+Jest
+React
+Rails
+JQuery
 
-**Business Owner** (2010 - 2018)    
-*Business owner, self starter. I ran a photography business for 8 years, trading in three outlets year round plus at seasonal events. I have learnt a range of business skills, from day to day operations to budgeting, accounts and generating revenue.*  
+
+And here some projects reflecting my work
+
+|    Project Name    | Description |
+|------------------------------|-------------|
+|Bank Tech Test                                           |  An example using OOP principles and writing clean code           |
+|Gilded Rose                                                 | This course work exercise is an excellent example of refactoring messy legacy code into clean code that is easy to read and add to. This was achieved using OOP principles.            |
+|FizzBuzz in Python                                           |  This well known program was my introduction to learn Python (and a corresponding test suite: unittest). I was able to learn the syntax, prove to myself that I can pick up a new programming language and test suite in one morning, and program this using TDD.           |
+
 
 ## Interests
 
-Reading, especially on economics and natural history.
-Painting and Photography
+Painting, Photography, learning Spanish, and playing Music.
+
