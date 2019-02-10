@@ -1,6 +1,6 @@
 ## Naomi Bid
 
-Highly motivated full stack junior software developer, with many years experience as a business owner and entrepreneur. Currently looking to join a company where I can utilize and further develop my coding and tech skills in a business focused work environment. My career goal is to take on a role in a software team which allows me to contribute and help the growth of the company.
+Highly motivated full stack junior developer, with many years experience as a business owner and entrepreneur. Currently looking to join a company where I can utilize and further develop my coding and tech skills in a business focused work environment. My career goal is to take on a role in a software team which allows me to contribute and help the growth of the company.
 
 ## Skills and Experience
 
