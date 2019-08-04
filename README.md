@@ -1,8 +1,14 @@
 # Naomi Bid
 
-Highly motivated full stack junior developer, with many years experience as a business owner and entrepreneur. Currently looking to join a company where I can utilize and further develop my coding and tech skills in a business focused work environment. My career goal is to take on a role in a software team which allows me to contribute and help the growth of the company.
+Highly motivated full stack developer, with many years experience as a business owner and entrepreneur. Currently looking to join a company where I can utilize and further develop my coding and tech skills in a business focused work environment. My career goal is to take on a role in a software team which allows me to contribute and help the growth of the company.
 
-# Skills and Experience
+# Experience
+
+### By Miles, London — Software Developer (React & Javascript)
+#### February 2019 - PRESENT
+In this role I work on database management for the back-end using SQL and Node. On the front-end I develop features for the website and for the internal customer service system using React and Javascript. In both cases I work use Test Driven Development (TDD) with test suites such as Jest/Enzyme and Cypress. Through building an automated personalised email system, I’ve successfully helped improve customer engagement.
+
+# Skills
 
 ### Entrepreneurship:
 
@@ -16,13 +22,13 @@ In my business, it was important to create an authentic brand and a product that
 
 I’ve managed teams, some of whom were family. When you work with your family, you have to be committed to get the best out of each of them because you can’t sack them! I have developed a communication style that allows me to be confident in expressing my own ideas while listening to others which has allowed me to build strong and motivated teams.
 
-# Education and Tech Skills:
+# Tech Education:
 
 ### Makers Academy (October - December 2018)
 
-In this intensive boot camp, I gained valuable knowledge and hands-on experience on: writing clean code, TDD,  OOP, Agile, SCRUM, XP Values.
+In this intensive boot camp, I gained a wealth of software developer skills, both learning to program as well as best practices for developing in a business context, as well as valuable knowledge and hands-on experience on: writing clean code, TDD,  OOP, Agile, SCRUM, XP Values.
 
-As well as the following technologies:
+Plus the following technologies:
 
 * Ruby, Rspec, Sinatra, Capybara, Rails
 * Javascript, Jasmine, JQuery, React, Cypress, Jest
@@ -34,16 +40,16 @@ As well as the following technologies:
 * Google Maps + Geolocation
 
 
-And here some projects reflecting my work
+Here are some projects reflecting my work both at Makers and since then
 
 |    Project Name    | Description |
 |------------------------------|-------------|
-|[Bank Tech Test](https://github.com/NaomiBid/bank-tech-test)                                           |  An example using **OOP principles** and writing clean code using **TDD**           |
-|[Gilded Rose](https://github.com/NaomiBid/Gilded-Rose-new-repository)                                                 | This course work exercise is an excellent example of **refactoring** messy legacy code into clean code that is easy to read and add to. This was achieved using **OOP principles**.            |
-|[FizzBuzz in Python](https://github.com/NaomiBid/fizzbuzz-in-python)                                           |  This well known program was my introduction to learning **Python** (and a corresponding test suite: unittest). I was able to learn the syntax, prove to myself that I can pick up a new programming language and test suite in one morning, and program this using **TDD**.           |
+|[Ecosystem (Python)](https://github.com/ecosystem-people/ecosystem)                                           |  This ecosystem simulation was done pairing with a friend in my free time to continue to learn and develop my skills as a programmer. It's a work in progress where different agents (animals) interact with each other and their environment to simulate population dynamics.          |
+|[Bank Tech Test (Ruby)](https://github.com/NaomiBid/bank-tech-test)                                           |  An example using **OOP principles** and writing clean code using **TDD**           |
+|[Gilded Rose (Ruby)](https://github.com/NaomiBid/Gilded-Rose-new-repository)                                                 | This course work exercise is an excellent example of **refactoring** messy legacy code into clean code that is easy to read and add to. This was achieved using **OOP principles**.            |
 
 
 # Interests
 
-Painting, Photography, learning Spanish, and playing Music.
+Painting, Photography, learning Spanish, and playing music.
 
